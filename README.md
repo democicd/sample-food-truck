@@ -1,5 +1,7 @@
 # Food Truck: Building a SwiftUI multiplatform app
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=democicd_sample-food-truck&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=democicd_sample-food-truck)
+
 Create a single codebase and app target for Mac, iPad, and iPhone.
 
 ## Overview
